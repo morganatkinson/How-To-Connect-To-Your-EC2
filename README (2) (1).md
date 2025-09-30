@@ -1,3 +1,6 @@
+Wath Me Create This Lab.
+https://www.loom.com/share/16d20a098434483a8edc401c8cf20659?utm_medium=gif
+
 # Connecting EC2 to Active Directory
 
 ## Prerequisites
